@@ -48,6 +48,10 @@ coverage.xml
 *.mo
 *.pot
 
+#Dataset
+
+dataset/
+
 # Django stuff:
 *.log
 
